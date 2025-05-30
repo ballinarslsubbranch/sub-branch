@@ -154,22 +154,32 @@ Once a motion is carried, it becomes a ‘resolution’ of that meeting.
 A point of order is taken when a person officially draws the attention of the chairperson of a meeting to an
 alleged irregularity in the proceedings.
 An alleged point of order can be one involving the following:
+
 a) the time limit has been exceeded;
+
 b) a quorum is not present;
+
 c) the motion is outside the scope of the meeting;
+
 d) the speaker’s remarks are irrelevant or involve tedious repetition;
+
 e) the proceedings breach the Constitution or Standing Orders; and/or
-f) that resolutions previously made are being disregarded.
-Contradictions, personal explanation and a statement of fact or opinion dealing with the principle subject are
+
+f) that resolutions previously made are being disregarded. Contradictions, personal explanation and a statement of fact or opinion dealing with the principle subject are
 not valid points of order.
+
 A point of order should be taken immediately a suspected breach of meeting protocol is noticed, in the form
 of the following:
 g) the person drawing attention to the alleged irregularity rises and says, “Point of Order” and then states
 the incident objected to and reasons for the objection;
+
 h) a point of order takes precedence over all other business;
+
 i) a speaker is to be interrupted to take a point of order;
+
 j) a point of order is open to discussion by other delegates (discussion must take place before a ruling by
 the chairperson is given); and
+
 k) when all who desire to speak on the point of order have done so (speakers may only speak once,
 including the person taking the point of order) the decision of the chairperson is announced, with
 explanations.
