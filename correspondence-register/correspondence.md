@@ -1,14 +1,16 @@
+<!-- List correspondence here in order received. Link to the SharePoint document where applicable 
+
+Use this format
+
+Subject:
+Date: 
+From: 
+Summary: 
+-->
+
 ## Correspondence register
 
-1. [First correspondence](https://github.com/mik-wright/ballina-sub-branch/blob/main/correspondence-register/first-corro.md)
-2. Second correspondence
-```dataview
-LIST WITHOUT ID
-	link(file.name, title)
-FROM "/correspondence-register"
-```
-## Table version
-
-| Date | Summary | From | Response required | Response |
-|---|---|---|---|---|
-|5 May 2025 | Thank you letter |  Community group | - [ ] | Link to response |
+Subject: GitHub for Nonprofits: Application approved!
+Date: 5 June 2025
+From: GitHub Nonprofits Team <nonprofits@github.com> 
+Summary: Your application for GitHub for Nonprofits has been approved. Thank you for your interest! The next step is to return to GitHub for Nonprofits to select your GitHub Teams plan or Enterprise Cloud plan for your nonprofit: https://nonprofits.github.com 
