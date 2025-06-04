@@ -14,4 +14,4 @@ We need to register correspondence for the sub-Branch. The [correspondence regis
 
 ## Meetings
 
-For meetings to run smoothly, we need to collaboartively develop agendas. There is an agenda [template](agenda-template.md), taken directly from SOP 3 from the RSL. This could be used as a template for each meeting and we could most the draft [meeting minutes](/minutes.md) immediately after the meeting is finished, with the ability for everyone to review before they are accepted at the next meeting.
+For meetings to run smoothly, we need to collaboartively develop agendas. There is an agenda [template](agenda-template.md), taken directly from SOP 3 from the RSL. This could be used as a template for each meeting and we could draft [meeting minutes](/minutes.md) immediately after the meeting is finished, with the ability for everyone to review before they are accepted at the next meeting.
