@@ -1,6 +1,6 @@
 ## Background
 
-This repo is kind of a working document but also the start of what could be the production version. It would collect things together for what we have been discussing in email and in chats. These are issues that are not easy to "discuss" by email and it has been difficult to get us all together. github is a software collaboration platform that is mainly used for code development, which is a massive, international effort that can be done at the same time by multiple people working on many files. We have a much smaller scale of albeit very important work to do but also scant resources to do that work.
+This repo is where we can collect things together for what we have been discussing in email and in chats. These are issues that are not easy to "discuss" by email and it has been difficult to get us all together. Github is a software collaboration platform that is mainly used for code development, which is a massive, international effort that can be done at the same time by multiple people working on many files. We have a much smaller scale of albeit very important work to do but also scant resources to do that work. We have been recognised for non-profit pricing since 5 June 2025, which means a 25% discount on paid plans if we decide to take one.
 
 This repo is public but we could create an organisation and make private repositories for other work. There are plenty of tools that can be used to edit plain text files, most of them free and plain text is not going anywhere. Some of this is covered in this [document](decision-record/why-use-github.md)
 
@@ -15,3 +15,7 @@ We need to register correspondence for the sub-Branch. The [correspondence regis
 ## Meetings
 
 For meetings to run smoothly, we need to collaboartively develop agendas. There is an agenda [template](agenda-template.md), taken directly from SOP 3 from the RSL. This could be used as a template for each meeting and we could draft [meeting minutes](/minutes.md) immediately after the meeting is finished, with the ability for everyone to review before they are accepted at the next meeting.
+
+## Future direction
+
+As a free platform, anyone can contribute on github. We can use this feature to have volunteers file their reports or request funding and make proposals.
