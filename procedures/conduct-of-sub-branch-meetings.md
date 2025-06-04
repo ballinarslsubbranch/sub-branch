@@ -87,24 +87,39 @@ subject matter of that recommendation has been carried.
 Any motion put before a meeting of a sub-Branch:
 
 a) must commence with “That”;
+
 b) must be specific in regard to:
+
   i. what action is to be taken,
+  
   ii. who is to take the action, and;
-  iii. the time requirement for the action (if     
-applicable).
+  
+  iii. the time requirement for the action (if applicable).
+  
 c) must be unambiguous;
 d) must not be worded in the first person;
+
 e) must not contain more than one sentence;
+
 f) may be in parts;
+
 g) may be followed by a supporting argument (motions placed before RSL NSW Board and/or Congress
 must have a supporting argument);
+
 h) should not be in the negative;
+
 i) must not attempt to revive a motion previously rejected at that meeting;
+
 j) must be duly proposed and seconded but not by the chairperson;
+
 k) may be amended (motions seeking to amend the Constitution at State Congress may not be amended);
+
 l) may be altered by leave;
+
 m) may be withdrawn, but only by leave;
+
 n) should preferably be submitted in writing; and
+
 o) gives right of reply
 
 ### 2.12. Amendments
