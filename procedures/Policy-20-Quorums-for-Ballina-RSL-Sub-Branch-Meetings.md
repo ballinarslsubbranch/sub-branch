@@ -1,3 +1,5 @@
+<!-- consider incorporating into meeting procedure, inline with RSL SOP -->
+
 **Policy – Quorums for Ballina RSL Sub-Branch Meetings**
 
 **Policy**: - **Quorums for Ballina RSL Sub-Branch Meetings**
