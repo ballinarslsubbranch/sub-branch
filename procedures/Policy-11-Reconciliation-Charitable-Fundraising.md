@@ -1,14 +1,14 @@
-**Policy – Ballina RSL Sub-Branch Reconciliation Charitable
-Fundraising**
-
-**Policy**: - Ballina RSL sub-Branch Reconciliation Charitable
+## Policy – Ballina RSL Sub-Branch Reconciliation Charitable
 Fundraising
 
+<!-- Need to add relate legislation/SOP(s) -->
+
 1.  To comply with the requirements of the Commonwealth Government and
-    the ATO relating to’ Not for Profit’ status, there is a requirement
+    the ATO relating to ’Not for Profit’ status, there is a requirement
     to have in place a policy and procedures to account and justify all
     monies collected from the public for the purpose of ‘Donations’ for
     charity.
+    <!-- What is the requirement and where does it come from? Quote legislation -->
 
 2.  For all funds raised from the public by the Ballina RSL Sub-Branch
     for charitable organisations, a complete summary of all stock
@@ -17,27 +17,27 @@ Fundraising
     scrutiny by annual audits and with a transparent record for the ATO.
 
 3.  The charitable fundraising currently carried out by the Ballina RSL
-    Sub-Branch are as follows:
+    sub-Branch are as follows:
 
-- ANZAC Day Badge sale and appeal.
+- ANZAC Day Badge sale and appeal
 
-- Remembrance Day, Poppy sales appeal.
+- Remembrance Day, Poppy sales appeal
 
-4.  The individual Tray reconciliations will be carried out using the
-    template contained as Attachment A. Badge/Poppy Sale Reconciliation
+4.  The individual Tray <!-- What is a tray? --> reconciliations will be carried out using the
+    template contained as [[Attachment A]]. Badge/Poppy Sale Reconciliation
     Form
 
 5.  The Total Statement of Sale reconciliations will be carried out
-    using the template contained as **Attachment A**. Reconciliation
+    using the template contained as Attachment A. Reconciliation
     Total Statement of Sale Form
 
-6.  The individual Tray Contents form is attached as **Attachment B**.
+6.  The individual Tray Contents form is attached as Attachment B.
 
-**Procedures - Ballina RSL Sub-Branch Reconciliation**
+### Procedures - Ballina RSL Sub-Branch Reconciliation
 
-**Charitable Fundraising**
+Charitable Fundraising
 
-**Procedures**: - Ballina RSL Sub-Branch Reconciliation Charitable
+Procedures: - Ballina RSL Sub-Branch Reconciliation Charitable
 Fundraising
 
 1.  In February each year, the Ballina RSL Sub-Branch will receive
@@ -45,8 +45,6 @@ Fundraising
     Soldiers Fund, a notice and order form to be compiled and completed
     by the Sub-Branch Secretary for goods to be purchased for the ANZAC
     Day Badge sale.
-
-<!-- -->
 
 1.  In August each year, the Ballina RSL Sub-Branch will receive
     notification from New South Wales State Branch URSF (United Returned
@@ -59,10 +57,10 @@ Fundraising
     to take into consideration the ‘saleability’ of items to ensure that
     the cost of returns of unsold good is kept to a minimum.
 
-3.  On receipt of all goods, a Ballina RSL Sub-Branch
+3.  On receipt of all goods, a Ballina RSL sub-Branch
     Co-Ordinator/Committee Member will validate the numbers supplied to
     ensure that the orders are as per request. Any shortfall is to be
-    reported to the Sub-Branch Secretary who will immediately phone to
+    reported to the sub-Branch Secretary who will immediately phone to
     notify URSF of the discrepancy and follow this phone call up with an
     e-mail, to record a paper trail.
 

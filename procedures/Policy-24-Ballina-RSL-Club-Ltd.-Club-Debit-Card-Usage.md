@@ -1,24 +1,21 @@
-**Policy –** **Ballina RSL Club Debit Card**
+## Policy – Ballina RSL Club Debit Card
 
-**Policy Name**: Ballina RSL Club Debit Card Usage: -
-
-1.  **Purpose and Objectives**
+###  Purpose and Objectives
 
 Due to the lack of refreshment provision facilities for staff,
-volunteers and visitors at the Ballina RSL sub-Branch, this policy is
-intended to enable approved members the ability to purchase liquid
-refreshments from the RSL Club Limited using a supplied Club Debit Card.
+volunteers and visitors at the Ballina RSL sub-Branch, this policy
+enables approved members to purchase <!-- need to define "liquid refreshments" or just say "soft drinks." As is, it seems to imply alocholic beverages can be purchased too --> liquid refreshments from the RSL Club Limited using a supplied Club Debit Card.
 This policy outlines the sub-Branch’s obligation to ensure consistent
 purchasing practices with a Club Debit Card across the organisation and
 define the sub-Branches’ approach to its use.
 
-2.  **Policy Scope/Coverage**
+### Policy Scope
 
 This policy applies to the acquisition of liquid refreshments from the
 RSL Club Ltd. for sub-Branch Volunteers, staff and visitors, using a
 Club Debit Card for such purchases.
 
-3.  **Policy Statement**
+### Policy Statement
 
 This policy is strictly for the purchase of liquid refreshments only,
 for the sub-Branch volunteers, staff and visitors. This policy
@@ -26,33 +23,31 @@ reinforces the obligations of volunteers and office staff to manage the
 sub-Branches’ finances efficiently, effectively and economically and to
 be accountable for the use of sub-Branch funds.
 
-4.  **Risk and Internal Controls**
+### Risk and Internal Controls
 
 Internal control mechanisms include:
 
-1.  Expenditures are acquitted monthly by the Finance Officer.
+- Expenditures are acquitted monthly by the <!-- Is this the Treasurer? -->Finance Officer.
 
-2.  Expenditures are monitored on a monthly basis against budgets by the
+- Expenditures are monitored on a monthly basis against budgets by the
     Treasurer.
 
-3.  Authorisation for use of the Club Card will entail several
+- Authorisation for use of the Club Card will entail several
     authorities dependent on availability of personnel.
 
-<!-- -->
+### Procurement Methods
 
-5.  **Procurement Methods**
-
+<!-- This is not really a "procurement method" but instead, how to use the card -->
 Purchases may be made by:
 
-| RSL Club Card | Strictly for liquid refreshment only, from the Ballina RSL Club Ltd. ensuring the purchase falls within this policies’ procedures. |
-|----|----|
+RSL Club Card Strictly for liquid refreshment only, from the Ballina RSL Club Ltd. ensuring the purchase falls within this policies’ procedures. |
 
-6.  **Procurement Approvals**
+### Procurement Approvals
 
 The authority to approve purchases will be in accordance with this
-policy’s procedures.
+policy.
 
-7.  **Related References and Policies**
+### Related References and Policies
 
 Authorising officers and card users should be aware of;
 
@@ -82,7 +77,7 @@ Authorising officers and card users should be aware of;
         budget.
 
     3.  The Club Card is to be kept in the sub-Branch Petty Cash tin
-        which is to be locked in the Safe. The card is to be returned to
+        which is to be locked in the safe. The card is to be returned to
         the Petty Cash tin ASAP after use to ensure security of the
         card.
 

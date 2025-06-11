@@ -1,6 +1,4 @@
-**Policy –Ballina RSL Sub-Branch**
-
-**Internal: Records Management Policy**
+## Policy Internal: Records Management 
 
 Purpose: To establish the requirements for adequate recordkeeping,
 document management and security of information for the Ballina RSL
@@ -16,8 +14,6 @@ Ballina RSL Sub-Branch to all corporate records and documents, in any
 format and from any source. Examples include paper, electronic messages,
 digital documents and records, video, DVD and web-based content.
 
-**Policy**: - **Ballina RSL Sub-Branch – Internal: Records Management
-Policy**
 
 > The Ballina RSL Sub-Branch requires all staff and volunteers to
 > ensure:
