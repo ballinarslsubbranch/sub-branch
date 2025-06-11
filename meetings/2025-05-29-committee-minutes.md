@@ -49,7 +49,7 @@ Carried unanimously
 
 Short service followed by dinner in the evening.
 
-## Currimbim RSL event
+## Currumbim RSL event
 
 Mtion: that the sub-Branch pay the costs for the Secretary and Vice President to attend Empowered Journeys Luncheon – Women Beyond Defence 13 June 2025. Cost $95
 
