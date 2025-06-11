@@ -17,7 +17,7 @@ Executive were reminded to undertake training courses as required by RSL NSW on 
 
 ## 4. Policies and procedures
 
-Dick outlined where to find RSL NSW policies and procedures and the requriement for adherance to them
+Dick outlined where to find RSL NSW policies and procedures and the requirement for adherence to them
 
 **Action:** all to note
 
@@ -41,7 +41,7 @@ Meeting and commemoration dates revised to accord with motion passed at last gen
 
 **Action:** Admin to publish new dates based on motion passed at general meeting 25 May 2025.
 
-## 8. Action arising from correspondece - Australian volunteers killed in Afghanistan
+## 8. Action arising from correspondence - Australian volunteers killed in Afghanistan
 
 Unaddressed action seeking assistance from RSL to recognise Australian volunteers killed in Afghanistan. Previous executive agreed to pass on to RSL NSW. State would likely need to put to RSL Australia.
 
@@ -49,7 +49,7 @@ Unaddressed action seeking assistance from RSL to recognise Australian volunteer
 
 ## 9. Correspondence review
 
-Proposa to review correspondence on a weekly basis. All agreed.
+Proposal to review correspondence on a weekly basis. All agreed.
 
 **Action:** Secretary to work with Admin Cyberry/QCNS to establish correspondence register and review correspondence policy
 
