@@ -33,7 +33,7 @@ Correspondence received from Ballina Waters Probus Club seeking use of sub-Branc
 
 Bus use. Agreement drafted by a solicitor for use of the bus. Executive to consider the agreement and whether to use for hirers of the bus. For consideration at next meeting.
 
-**Action:** all to consider the bus use agreement and whether the bus / driver can be used by the club on the terms laid out in the [Bus usage policy]((https://github.com/ballinarslsubbranch/sub-branch/blob/main/procedures/Policy-2-Bus-Usage-Reviewed-24-August-2023.md)
+**Action:** all to consider the bus use agreement and whether the bus / driver can be used by the club on the terms laid out in the [Bus usage policy](https://github.com/ballinarslsubbranch/sub-branch/blob/main/procedures/Policy-2-Bus-Usage-Reviewed-24-August-2023.md)
 
 ## 7. Meetings and commemoration dates
 
