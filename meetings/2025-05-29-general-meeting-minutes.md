@@ -195,7 +195,7 @@ Commemoration of Ukrainian soldiers. President will come back to next meeting.
 
 Member sought continued printing of minutes. Executive agreed.
 
-Member asked avout WSO course and engagement. Advised certificate was not sent to office but sent to phone. Referred back to wellbeing report. Volunteers sought for WSO.
+Member asked about WSO course and engagement. Advised certificate was not sent to office but sent to phone. Referred back to wellbeing report. Volunteers sought for WSO.
 
 ## 14. Dated of next social forum 26 June 2025
 
