@@ -19,4 +19,4 @@ Need to respond to person who donated a bugle. TW will seek further info about i
 
 ## Dry till authorisation
 
-Discussion over authorisation of the opening of the dry till. Authorisation is in accordance with SOP for expenditure of sub-Branch funds. Previously done with a card, intructed by Treasurer with a receipt. Now the staff do not know who the Executive are so there is no approval process.
+Discussion over authorisation of the opening of the dry till. Authorisation is in accordance with SOP for expenditure of sub-Branch funds. Previously done with a card, intructed by Treasurer with a receipt. Resolved to follow the procedure where the Treasurer instructs bar staff on how much is authorised on the till following authorisation by at least two of the Executive.
