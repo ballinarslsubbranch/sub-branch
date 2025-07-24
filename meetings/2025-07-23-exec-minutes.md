@@ -1,3 +1,18 @@
+# Executive meeting 23 July 2025
+
+## Attendance
+
+### Present
+
+**Treasurer:** Colin Macdonald
+**Vice President:** Dick Wills
+**Vice President:** Trish Wilson
+**Secretary:** Michael Wright
+
+### Apologies
+
+**President:** Jamie Tanner
+
 ## Next general meeting
 
 - MW needs to finish agenda and minutes from last meeting. We will wait until Monday / Tuesday 28/29 July
