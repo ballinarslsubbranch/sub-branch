@@ -5,8 +5,11 @@
 ### Present
 
 **Treasurer:** Colin Macdonald
+
 **Vice President:** Dick Wills
+
 **Vice President:** Trish Wilson
+
 **Secretary:** Michael Wright
 
 ### Apologies
