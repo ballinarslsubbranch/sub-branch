@@ -2,8 +2,10 @@
 
 ## Attendance
 
-Meeting opened: 
+Meeting opened: 1034
+
 Present: JT, DW, MW, AR
+
 Apologies: TW, CM
 
 ## Vietnam Veteran's Day
