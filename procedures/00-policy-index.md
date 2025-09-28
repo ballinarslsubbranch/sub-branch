@@ -8,27 +8,32 @@ This file was previously a policy list from 2020. We can use it as an index for 
 
 -->
 
-There is a requirement to review, and if needed, update the sub branch
-policies and procedures. This is a big task. In order to spread the load
-you will note below the titles of the 19 policies that the sub branch
-has, and alongside each policy title I have inser the name of the
-committee member who is to conduct the review of that policy.
+There is a requirement to review, and if needed, update the sub branch policies
+and procedures. This is a big task. In order to spread the load you will note
+below the titles of the 19 policies that the sub branch has, and alongside each
+policy title I have inser the name of the committee member who is to conduct the
+review of that policy.
 
 In conducting your review please be guided by the following:
 
 - is the policy relevant and does it make sense;
 
-- does the policy and its associa procedure accurately reflect what
-  we do; and
+- does the policy and its associated procedure accurately reflect what we do;
+  and
 
-- if the policy or its associa needs amending or updating please
-  see Dick who will facilitate the way ahead for you.
+- if the policy or its associated needs amending or updating please see Dick who
+  will facilitate the way ahead for you.
 
-- [ ] Consider if we still need numbers for these policies given they can be electronic numbering makes it difficult to add or remove policies without confusion over precedence or importance
-- [ ] Consider creating issue for each policy review and we get to them when we can
+- [ ] Consider if we still need numbers for these policies given they can be
+      electronic numbering makes it difficult to add or remove policies without
+      confusion over precedence or importance
+- [ ] Consider creating issue for each policy review and we get to them when we
+      can
 - [ ] Consider cataloguing with YAML metadata
-- [ ] Automate this index later with something like [this](https://github.com/marketplace/actions/markdown-action-create-indexes)
-- [ ] Expand this index to connect to SOPs from RSL NSW or ACNC for example (probably a good idea to split)
+- [ ] Automate this index later with something like
+      [this](https://github.com/marketplace/actions/markdown-action-create-indexes)
+- [ ] Expand this index to connect to SOPs from RSL NSW or ACNC for example
+      (probably a good idea to split)
 
 [Attendance at Ballina RSL sub-Branch Post Commemorative Ceremonies and Social Functions](https://github.com/ballinarslsubbranch/sub-branch/blob/main/procedures/1-Policy-No-1-Reviewed-July-2024.md)
 
@@ -44,13 +49,13 @@ Policy No. 4 Hospital Visit and Sweets
 
 Policy No. 5
 
-Policy No. 6 ATO Authorisation 
+Policy No. 6 ATO Authorisation
 
 Policy No. 7 Funeral Protocols
 
-Policy No. 8 Out of Pocket Expenses 
+Policy No. 8 Out of Pocket Expenses
 
-Policy No. 9 Nominations & Voting for AGM & General Meetings 
+Policy No. 9 Nominations & Voting for AGM & General Meetings
 
 Policy No. 10
 
@@ -60,8 +65,8 @@ Policy No. 10
 
 [Policy No. 13 Internal: Records management Policy](https://github.com/ballinarslsubbranch/sub-branch/blob/main/procedures/Policy-13-Internal-Records-Management.md)
 
-  - [ ] to merge with the following:
-  [Draft records management policy](https://github.com/ballinarslsubbranch/sub-branch/blob/main/procedures/Policy-13-DRAFT-Internal-Records-Management-Draft.md)
+- [ ] to merge with the following:
+      [Draft records management policy](https://github.com/ballinarslsubbranch/sub-branch/blob/main/procedures/Policy-13-DRAFT-Internal-Records-Management-Draft.md)
 
 [Policy No. 14 Internal: Financial Policy](https://github.com/ballinarslsubbranch/sub-branch/blob/main/procedures/Policy-14-Internal-Financial-Procedures.md)
 

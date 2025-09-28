@@ -1,4 +1,4 @@
-**Attendance to Ballina RSL sub-Branch Post Commemorative Ceremonies and
+# Attendance at Ballina RSL sub-Branch Post Commemorative Ceremonies and
 Social Functions**
 
 **Introduction**

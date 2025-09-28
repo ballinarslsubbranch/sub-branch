@@ -1,31 +1,31 @@
-**Policy –Ballina RSL Sub-Branch**
+# Policy Ballina RSL sub-Branch
 
-**Internal: Legislative Changes Policy**
+Internal: Legislative Changes Policy
 
-Scope: It is the Ballina RSL Sub-Branch goal to ensure the health and
+Scope: It is the Ballina RSL sub-Branch goal to ensure the health and
 safety of our members, employees, clients and visitors by complying with
 all relevant legislative changes.
 
-**Policy**: - **Ballina RSL Sub-Branch – Internal: Legislative Changes
-Policy**
+Policy: - Ballina RSL sub-Branch – Internal: Legislative Changes
+Policy
 
-1.  The Ballina RSL Sub-Branch will follow any changes in the
+1.  The Ballina RSL sub-Branch will follow any changes in the
     legislation which may apply to the way we conduct our business or
     provide goods and services to our clients.
 
 2.  We will endeavour to keep at the forefront of technical knowledge in
-    relation to OHS issues in the workplace.
+    relation to WHS issues in the workplace.
 
 3.  We aim to keep up to date with any changes in regulations or codes
     of practice. This will be done by maintaining a close relationship
     with RSL State Branch, our local Council, Work Cover and the
     Department of Industrial Relations.
 
-4.  The Sub-Branch Executive and Committee are required to keep abreast
+4.  The sub-Branch Executive are required to keep abreast
     of these changes.
 
 5.  The following Acts pertain but are not limited to the business
-    carried out by the Ballina RSL Sub-Branch:
+    carried out by the Ballina RSL sub-Branch:
 
     - Anti-Discrimination Act 1977
 
