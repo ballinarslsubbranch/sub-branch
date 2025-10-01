@@ -4,7 +4,7 @@
 
 Meeting opened: 0935
 
-Present: JT, PW, RM, CM, MW, AR, Allan Britt
+Present: JT, PW, RW, CM, MW, AR, Allan Britt
 
 ## General business
 
