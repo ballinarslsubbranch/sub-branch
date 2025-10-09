@@ -1,1 +1,3 @@
-.obisdian
+.obsidian/
+*.json
+.gitignore

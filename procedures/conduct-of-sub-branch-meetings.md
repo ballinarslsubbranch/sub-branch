@@ -1,4 +1,5 @@
 ## 1. Purpose
+
 The purpose of this Standard Operating Procedure (SOP) is to provide the rules for the conduct of all sub-
 Branch General Meetings. Sub-Branch meeting requirements may differ between sub-Branches. Where
 possible, meetings should be held in accordance with the contents of this SOP unless a sub-Branch has sought
@@ -9,8 +10,8 @@ Constitution.
 ## 2. Procedure
 
 ### 2.1. Calling Meetings
-The sub-Branch Executives may meet as and when it considers necessary and appropriate. A meeting may be
-called by the President on giving reasonable notice to the other members of the sub-Branch Executives.
+
+The sub-Branch Executives may meet as and when it considers necessary and appropriate. A meeting may be called by the President on giving reasonable notice to the other members of the sub-Branch Executives.
 The sub-Branch Executives may call sub-Branch general meetings as and when required in accordance with
 the Constitution provided that they must call sub-Branch general meetings at least quarterly one of which
 must be an annual general meeting.
@@ -27,20 +28,24 @@ Any sub-Branch Committee may meet as and when the members of the Committee deem 
 accordance with any terms of reference imposed by the sub-Branch Executives.
 
 ### 2.2. Minute Taking
+
 The Secretary is responsible for taking minutes to reflect a true record of the meeting. Should the Secretary
 be absent then a volunteer should be sought at the meeting, or a second person appointed to take the
 minutes of the meeting. In this case the person taking the minutes is to collate them and pass them to the
 secretary in a timely manner.
 
 ### 2.3. Agenda
+
 The agenda is the list of items of business before a meeting and the order in which it is proposed that the
 meeting should deal with them. A meeting agenda template is shown below.
 
 ### 2.4. Recording of Meetings
+
 Photographs, films or video recordings of persons attending meetings may be taken and the meeting
 proceedings recorded with the prior written consent given by majority resolution of the meeting.
 
 ### 2.5. Draft Minutes
+
 Draft minutes should generally not be circulated for any purpose other than as a step towards their
 confirmation. However, the decisions of meetings as recorded in draft minutes are often the starting point
 for further action. Where awaiting confirmation of minutes would cause unreasonable delay to an action,
@@ -48,6 +53,7 @@ the draft minutes should be distributed as drafted accompanied by a note highlig
 status.
 
 ### 2.6. Withdrawal of a Motion
+
 The mover of a motion may withdraw it only if the meeting gives them leave to do so, and if the motion has
 not already been amended. Permission of the seconder is not sufficient, as other persons may have refrained
 from bringing the matter forward after seeing it on the agenda. A motion cannot be withdrawn while an
@@ -57,12 +63,14 @@ Chairperson asks the question: “is leave granted?” If the only response is �
 If unanimous consent is not obtained (and any member says “No”), leave to withdraw is refused.
 
 ### 2.7. Rescission of Resolutions
+
 If it is desired to remove a resolution from the books of the sub-Branch, either later in the meeting which
 adopted it, or at a subsequent meeting, a motion of rescission can be put. Suitable wording of the motion
 would be: “That the resolution on aged care adopted on 20th October 2019 be rescinded”.
 If a rescission motion is lost, then it may be moved again at a later meeting.
 
 ### 2.8. Repetitious Motions
+
 Once a meeting has rejected a motion, with or without amendment, further motions to the same effect, even
 if in a different form of words, would be out of order at the same meeting. Similarly, a motion substantially
 covering the same ground of an amendment dealt with by the meeting is not permissible. However, the
@@ -72,6 +80,7 @@ reopening a matter would be unfair to persons who had left the meeting for bona 
 the matter had been finalised.
 
 ### 2.9. Suspension of Standing Orders
+
 Suspension of standing orders at a meeting merely relaxes the normal rules of debate. Proceedings should
 still be minuted in the usual way otherwise there would be no record of decisions made. A member desiring
 the departure from the rules should rise and seek leave of the meeting to suspend standing orders. The

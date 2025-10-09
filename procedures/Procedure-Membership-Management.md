@@ -1,6 +1,5 @@
-**ProcedureNo.5**
+# Procedure Ballina RSL sub-Branch Membership Management
 
-**Ballina RSL sub-Branch** **Membership Management**
 
 Copy of email 10/06/2020 RSL NSW procedure confirmed by Mary Cooper,
 Membership Supervisor

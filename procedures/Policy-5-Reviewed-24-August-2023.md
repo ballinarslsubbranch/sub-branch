@@ -2,8 +2,6 @@
 
 > **Position Descriptions and Employment Details**
 
-### 
-
 ### Introduction
 
 From time to time the Ballina RSL sub-Branch engages non-member persons
@@ -13,7 +11,7 @@ sub-Branch Executive officers.
 
 ### Employment
 
-The Ballina RSL sub-Branch is an un-incorporated entity.
+The Ballina RSL sub-Branch is an unincorporated entity.
 
 As an un-incorporated sub-Branch of the Returned and Services League of
 Australia, New South Wales Branch, the sub-Branch cannot engage
@@ -22,13 +20,13 @@ Recruiting and ManpowerGroup, both are employment recruitment
 organisations, for the purpose of meeting the sub-Branch employment
 requirements.
 
-> **<u>Ballina RSL Sub-Branch “Office Administrator”</u>**
+## Ballina RSL Sub-Branch Office Administrator
 
 ### Position Description:
 
-The Office Administrator, is an administrative support person, focused
-on the technical aspect of running an office efficiently and
-strategically. Common duties and responsibilities for the role of the
+The Office Administrator is an administrative support person, focused
+on the technical aspect of running an office efficiently.
+Common duties and responsibilities for the role of the
 office administrator can vary from one day to the next, but usually
 include:
 
@@ -67,10 +65,10 @@ include:
     President, or officer as delegated by the President.
 
 3.  **Accountability:** The Office Administrator is ultimately
-    accountable to the Ballina RSL Sub–Branch Committee, headed by the
+    accountable to the Ballina RSL sub–Branch Committee, headed by the
     President of that committee. All requests for tasks either made by
     clients, or the Sub-Branch executive to are to be made through the
-    Sub-Branch Secretary.
+    sub-Branch Secretary.
 
 ### Duty Statement – Office Administrator:
 

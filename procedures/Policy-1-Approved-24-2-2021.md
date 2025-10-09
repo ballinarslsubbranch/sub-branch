@@ -22,7 +22,6 @@ paid when there was no obligation or liability to pay it.”
 
 1.  **Attendance Eligibility**
 
-<!-- -->
 
 1)  Invited dignitaries and their spouse or partner.
 

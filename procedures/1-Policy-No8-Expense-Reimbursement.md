@@ -1,8 +1,8 @@
-> **Policy – Accounts, Financial Management and Expense Reimbursement**
+# Policy – Accounts, Financial Management and Expense Reimbursement
 
-# Reference RSL NSW Constitution and Standard Operating Procedure 7
+Reference RSL NSW Constitution and Standard Operating Procedure 7
 
-**Purpose**
+## Purpose
 
 1.  Standard Operating Procedure (SOP) 7, Clause **1. Purpose** provides
     sub- Branches with guidance for Accounts, Financial Management and

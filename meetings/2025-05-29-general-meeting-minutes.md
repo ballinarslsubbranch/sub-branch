@@ -155,7 +155,7 @@ Motion carried
 
 ### 12.2 Healthy heart program
 
-Motion: that $200 per month be approved for well-being support to the *healthy hearts* swimming programme for their refreshments and program promotion, and that the continuotion and amount be reviewed as required.
+Motion: that $200 per month be approved for well-being support to the *healthy hearts* swimming programme for their refreshments and program promotion, and that the continuoation and amount be reviewed as required.
 
 The registered members of the Heartly Health Programme, who meet twice a week as swimming physiotherapy group as part of their ongoing health and wellness activities, request a monthly maximum allocation of $20O to cover the cost of refreshments during their sessions. This initiative supports camaraderie and wellbeing support within the group. The program fosters social connection and mental health awareness among participants, promotes a welcoming environment for members focused on improving and maintaining physical and mental health. providing refreshments encourages participation and enhances the group experience. The amount requested is modest and will directly benefit active registered health heart members.
 
@@ -167,7 +167,7 @@ Motion carried unanimously
 
 ### 12.3 Affiliate member restrictions
 
-Motion 'That the motion of 16n December 2023,restricting the number of affitiote members to twenty be rescinded. Since this motion was resolved, the past management have exceeded the limited number, currently Ballia twenty three Affiliiate members, the number has been exceeded while potential members have been denied their application. Such membership management portrays a bad image of the sub-Branch membership perceptions. Also, the motion restricts eligible persons from becoming a member and supporting sub-Branch development. Retrictive limits for affiliate membership can be investigated when better argument supports the applcation of a limited number.
+Motion 'That the motion of 16n December 2023,restricting the number of affiliate members to 20 be rescinded. Since this motion was resolved, the past management have exceeded the limited number, currently Ballia 23 affiliiate members, the number has been exceeded while potential members have been denied their application. Such membership management portrays a bad image of the sub-Branch membership perceptions. Also, the motion restricts eligible persons from becoming a member and supporting sub-Branch development. Retrictive limits for affiliate membership can be investigated when better argument supports the applcation of a limited number.
 
 Moved: RW
 
@@ -195,7 +195,7 @@ Commemoration of Ukrainian soldiers. President will come back to next meeting.
 
 Member sought continued printing of minutes. Executive agreed.
 
-Member asked avout WSO course and engagement. Advised certificate was not sent to office but sent to phone. Referred back to wellbeing report. Volunteers sought for WSO.
+Member asked about WSO course and engagement. Advised certificate was not sent to office but sent to phone. Referred back to wellbeing report. Volunteers sought for WSO.
 
 ## 14. Dated of next social forum 26 June 2025
 
