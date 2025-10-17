@@ -38,11 +38,8 @@ paid when there was no obligation or liability to pay it.”
 
     1.  **Function Attendance and Payment**
 
-<!-- -->
 
 1)  For catering purposes,
-
-<!-- -->
 
 1)  RSVP is required from invited dignitaries.
 
