@@ -1,4 +1,4 @@
-![sub-Branch logo](https:/github.com/ballinarslsubbranch/sub-branch/Logo_SubBranch_DarkonLight-1030x494.png)
+![sub-Branch logo](https://github.com/ballinarslsubbranch/sub-branch/blob/main/Logo_SubBanch_DarkonLight-1030x494.png)
 
 ## AGENDA
 
