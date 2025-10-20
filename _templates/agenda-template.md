@@ -1,4 +1,7 @@
+![sub-Branch log](https:/github.com/ballinarslsubbranch/sub-branch/Logo_SubBranch+DarkonLight-1030x494.png)
+
 ## AGENDA
+
 ## Ballina RSL Sub-branch meeting
 To be held at [location] [time] [day] [date]
 
