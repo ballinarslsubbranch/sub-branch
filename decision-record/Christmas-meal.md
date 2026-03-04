@@ -1,0 +1,2 @@
+# Christmas meal
+Decided at Executive meeting [[2025-11-26-exec-meeting|26 November 2205]] to have the seafood package at the Christmas luncheon. This is fitting with the occasion and represents reasonable value for the members. Confirmed at general meeting that night.
