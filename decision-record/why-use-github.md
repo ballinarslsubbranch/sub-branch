@@ -14,7 +14,9 @@ scale to agendas, minutes and correspondence.
 Work with web provider to integrate or determine if wordpress can be used as well or instead given that there are integrations available
 Created correspondence register already in SharePoint to register correspondence
 
-We can create a Ballina sub-Branch github organisation for free and a mono-repo
+We can create a Ballina sub-Branch github organisation for free and a mono-repo.
+
+There is a steep learning curve for git and github but at the level we need, it helps us to create and share files transparently and for free. It also prevents lock-in to a single vendor. If github stopped working tomorrow, we would have copies of all our files with their full change history in multiple locations. We could move to another git website or even create our own. Plain text files have been around since computers were invented and are not going anywhere. They can be edited on any device with any text editor.
 
 ### Pros
 - Scalable
