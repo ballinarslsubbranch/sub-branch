@@ -18,10 +18,4 @@ Apology:
 - JT - Tl liaise with 
 - DW - Mick (Michael Patch) as Vice President to be added as a signatory to the NAB Connect Banking profile. Col Macdonald to remain as a NAB Connect user and signatory in his position as Treasurer casual vacancy.  Dick (Richard) Wills to be removed.
 
-
-
-- 
-
-
-
-Meeting closed: 1100    
+Meeting closed: 1100
