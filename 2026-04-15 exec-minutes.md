@@ -9,3 +9,4 @@ TC: Wreath laying procedure to be reviewed
 TC: 2026 ANZAC Day school awards
 TC: How is programme going
 TC: Discuss expenses forecast review
+CM: Could I please have the okay to order flags as per white board
