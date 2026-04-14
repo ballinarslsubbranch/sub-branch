@@ -11,3 +11,4 @@ TC: How is programme going
 TC: Discuss expenses forecast review
 CM: Could I please have the okay to order flags as per white board
 TC: New Acting Inspector Ballina Police, Mat Vaughan wants to lay wreath
+TC: Jeep capacity limited to 6 people - PLEASE refer to my list
