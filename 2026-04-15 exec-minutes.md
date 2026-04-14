@@ -10,3 +10,4 @@ TC: 2026 ANZAC Day school awards
 TC: How is programme going
 TC: Discuss expenses forecast review
 CM: Could I please have the okay to order flags as per white board
+TC: New Acting Inspector Ballina Police, Mat Vaughan wants to lay wreath
