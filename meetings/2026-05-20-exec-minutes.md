@@ -10,7 +10,7 @@
 
 ## General business
 
-### AR
+### Admin
 
 - Motion to go into general meeting.
 - Flags ordered.
@@ -19,17 +19,17 @@
 - Sending out agenda and collateral for next meeting today
 - Paying accounts today. 
 
-### JT
+### President
 
 - transfer $10k to working account.
 - Spoke with RSL re: supporting Marine Rescue tribute.
 - Attending FNDC with MW 24 May 2026.
 
-### MW
+### Secretary
 
 - Desktop replacement quote sought for new desktop for office computer. Unnecessary following QCNS job to clean up hard disk.
 - Need to go to universal multifactor authentication policy due to Microsoft policy. All users need to make sure they have a second factor with their login.
 - Need to do a Clubs Grant for Anzac Day.
 - Allan Britt needs credit card to purchase show tickets to avoid reimbursement delays.
 
-**Meeting closed:** 
+**Meeting closed:** 1053
