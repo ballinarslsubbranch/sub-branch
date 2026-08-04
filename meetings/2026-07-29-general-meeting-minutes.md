@@ -17,11 +17,13 @@ Meeting opened: 1736
 - Mary O'Brien
 
 Moved: Richard Brown
-Seconded: Murray 
+
+Seconded: Murray Warwarek
 
 ## Minutes from last general meeting
 
 Moved: Phil Chapman 
+
 Seconded: Al Britt 
 
 ### Business arising from minutes
@@ -31,14 +33,16 @@ Seconded: Al Britt
 Correspondence as listed.
 
 Moved: Rod Gilmore
+
 Seconded: Graeme Gaunsen
 
 ## Treasurer's report
 
 Motion: to approve March, April and May 2026 Treasurer Reports.
 
-Moved: John Lynch
-Seconded: 
+Moved: Col Macdonald
+
+Seconded: John Lynch
 
 ## Reports
 
@@ -67,13 +71,14 @@ Seconded:
 ### Ceremonial
 
 - MEAO Day. Nice intimate service with about 30 people and the Headliners.
-- Vietnam Veteran's Day 18 August. 60th anniversary of the Battle of Long Tan. Jamie expressed his desire to be with the sub
+- Vietnam Veteran's Day 18 August. 60th anniversary of the Battle of Long Tan. Jamie expressed his desire to be with the sub-Branch for the day.
 
 ### Social
 
 - Social Coordinator. 6 activities left for the year, as listed on the calendar. 
 
 Moved: Graeme Gaunson
+
 Seconded: Phil Chapman 
 
 ## The Ode
@@ -89,6 +94,7 @@ Vale:
 Nomination for casual vacancy for Vice President - Phil Devine.
 
 Moved: Richard Brown
+
 Seconded: Bob MacNeil
 
 ## General business
