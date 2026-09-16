@@ -6,6 +6,7 @@
 ## ACNC
 
 Jamie Tanner
+
 Michael Wright
 
 ## Cyberry
@@ -39,3 +40,9 @@ Vice President: Phil Devine
 Treasurer: vacant 
 
 Secretary: Michael Wright
+
+Trustee: William Moore
+
+Trustee: Richard Wills
+
+Trustee: John Gardon
