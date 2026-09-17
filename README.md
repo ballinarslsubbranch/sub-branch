@@ -2,7 +2,7 @@
 
 This repo is where we can collect things together for what we have been discussing in email and in chats. These are issues that are not easy to "discuss" by email and it has been difficult to get us all together. Github is a software collaboration platform that is mainly used for code development, which is a massive, international effort that can be done at the same time by multiple people working on many files. We have a much smaller scale of albeit very important work to do but also scant resources to do that work. We have been recognised for non-profit pricing since 5 June 2025, which means a 25% discount on paid plans if we decide to take one.
 
-This repo is public but we could create an organisation and make private repositories for other work. There are plenty of tools that can be used to edit plain text files, most of them free and plain text is not going anywhere. Some of this is covered in this [document](decision-record/why-use-github.md)
+This repo is public but we could make private repositories for other work. There are plenty of tools that can be used to edit plain text files, most of them free and plain text is not going anywhere. Some of this is covered in this [document](decision-record/why-use-github.md)
 
 ## Decision record
 
