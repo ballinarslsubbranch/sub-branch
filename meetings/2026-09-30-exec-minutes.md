@@ -6,17 +6,19 @@
 
 **Present:** Jamie Tanner, Mick Patch, Phil Devine, Michael Wright, Toni Cromack.
 
-Guest: John Thurgar
+**Guest:** John Thurgar
 
-**Apologies:** 
+**Apologies:** nil 
 
 ## President
 
-- John Thurgar sought luncheon
+- John Thurgar sought luncheon support for the launch of a new production with veterans and other sub-Branches invited.
+    - Executive agreed to fund a luncheon.
 
 ## Vice President
 
 - Found possible candidate for admin role.
+    - Executive agreed to onboard new admin assistant following interview and handover.
 
 ## Secretary
 
@@ -25,7 +27,7 @@ Guest: John Thurgar
 - Have asked Headliners if they would like to sing a different hymn on Remembrance Day. They would like to sing *Amazing Grace*
   - Agreed
 - Need to complete Annual budget
-  - agreed to engage James McDonald to complete budget on SB Portal.
+  - Agreed to engage James McDonald to complete budget on SB Portal.
 
 ## Administration
 
